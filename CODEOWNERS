@@ -1,0 +1,7 @@
+/apps/catalog @my-org/catalog-team 
+/apps/checkout @my-org/checkout-team
+
+/tools @msadmin 
+*.css @cssexpert
+
+/libs/shared @my-org/shared-team
